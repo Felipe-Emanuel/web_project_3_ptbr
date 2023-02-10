@@ -1,5 +1,8 @@
-/* nomalize imports */
+/* normalize imports */
 @import url("../vendor/normalize.css");
+
+/* root imports */
+@import url("../blocks/root/root.css");
 
 /* font imports */
 @import url("../fonts/inter.css");
@@ -47,55 +50,7 @@
 
 /* cover imports */
 @import url("../blocks/cover/cover.css");
-/* nomalize imports */
-@import url("../vendor/normalize.css");
-
-/* font imports */
-@import url("../fonts/inter.css");
-
-/* content imports */
-@import url("../blocks/content/content.css");
-
-/* header imports */
-@import url("../blocks/header/header.css");
-@import url("../blocks/header/__logo/header__logo.css");
-
-/* lead imports */
-@import url("../blocks/lead/lead.css");
-@import url("../blocks/lead/__title/lead__title.css");
-@import url("../blocks/lead/__subtitle/lead__subtitle.css");
-@import url("../blocks/lead/__image/lead__image.css");
-
-/* intro imports */
-@import url("../blocks/intro/intro.css");
-@import url("../blocks/intro/__title/intro__title.css");
-@import url("../blocks/intro/__quote/intro__quote.css");
-@import url("../blocks/intro/__quote-text/intro__quote-text.css");
-@import url("../blocks/intro/__quote-author/intro__quote-author.css");
-@import url("../blocks/intro/__text/intro__text.css");
-
-/* photo-grid imports */
-@import url("../blocks/photo-grid/photo-grid.css");
-@import url("../blocks/photo-grid/__item/photo-grid__item.css");
-
-/* places imports */
-@import url("../blocks/places/places.css");
-
-/* place imports */
-@import url("../blocks/place/place.css");
-@import url("../blocks/place/__title/place__title.css");
-@import url("../blocks/place/__image/place__image.css");
-@import url("../blocks/place/__link/place__link.css");
-@import url("../blocks/place/__link/_position/place__link_position_frame.css");
-@import url("../blocks/place/__website/place__website.css");
-@import url("../blocks/place/__website/_position/place__website_position_info.css");
-@import url("../blocks/place/__url-heading/place__url-heading.css");
-@import url("../blocks/place/__artist/place__artist.css");
-@import url("../blocks/place/__info/place__info.css");
-@import url("../blocks/place/__frame/place__frame.css");
-
-/* cover imports */
-@import url("../blocks/cover/cover.css");
+@import url("../blocks/cover/__image/cover__image.css");
 @import url("../blocks/cover/__info/cover__info.css");
 @import url("../blocks/cover/__title/cover__title.css");
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");
