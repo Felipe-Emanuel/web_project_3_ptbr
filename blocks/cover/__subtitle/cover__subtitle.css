@@ -1,0 +1,16 @@
+.cover__subtitle {
+  padding-top: 2rem;
+  width: 17.5rem;
+  font-size: 0.87rem;
+  font-weight: 400;
+  line-height: 1rem;
+  text-align: center;
+  transition: all 300ms ease-in-out;
+}
+
+@media screen and (min-width: 648px) {
+  .cover__subtitle {
+    font-size: 1.12rem;
+    line-height: 1.37rem;
+  }
+}

@@ -1,0 +1,19 @@
+.intro {
+  width: 90%;
+  transition: all 300ms ease-in-out;
+  margin: auto;
+  padding-top: 2.75rem;
+  transition: all 300ms ease-in-out;
+}
+
+@media screen and (min-width: 768px) {
+  .intro {
+    padding-top: 5.5rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    padding-top: 5.75rem;
+  }
+}

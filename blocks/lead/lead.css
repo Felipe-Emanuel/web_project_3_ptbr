@@ -1,0 +1,11 @@
+.lead {
+  display: flex;
+  flex-direction: column;
+  padding-top: 5.6rem;
+}
+
+@media screen and (max-width: 640px) {
+  .lead {
+    padding-top: 3.12rem;
+  }
+}

@@ -1,0 +1,16 @@
+.cover {
+  position: relative;
+  width: 100%;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .cover {
+    width: 95%;
+    padding-top: 5.75rem;
+  }
+}

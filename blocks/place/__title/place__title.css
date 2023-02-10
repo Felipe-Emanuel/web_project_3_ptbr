@@ -1,0 +1,24 @@
+.place__title {
+  width: 100%;
+  font-weight: 900;
+  font-size: 2rem;
+  line-height: 2.18rem;
+  transition: all 300ms ease-in-out;
+  padding: 0rem 1rem;
+}
+
+@media screen and (min-width: 648px) {
+  .place__title {
+    font-size: 2.6rem;
+    line-height: 2.87rem;
+    padding-bottom: 2.87rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__title {
+    font-size: 4.5rem;
+    line-height: 4.75rem;
+    padding: 0 0 3rem 0;
+  }
+}

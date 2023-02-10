@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4rem 0 1.5rem 0;
+}
+
+@media screen and (min-width: 648px) {
+  .footer {
+    padding: 5.5rem 0 1.5rem 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .footer {
+    padding: 5.75rem 0 1.5rem 0;
+  }
+}

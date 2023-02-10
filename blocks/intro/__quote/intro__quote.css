@@ -1,0 +1,15 @@
+.intro__quote {
+  text-align: start;
+  display: flex;
+  flex-direction: column;
+  padding-top: 0.56rem;
+  transition: all 300ms ease-in-out;
+  width: 90%;
+}
+
+@media (min-width: 648px) {
+  .intro__quote {
+    padding-top: 2.5rem;
+    width: 70%;
+  }
+}

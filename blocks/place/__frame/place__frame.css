@@ -1,0 +1,4 @@
+.place__frame {
+  width: 100%;
+  transition: all 300ms ease-in-out;
+}
