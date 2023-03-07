@@ -16,4 +16,4 @@ Este é um projeto que mostra as cidades de origem de alguns funcionários do Pr
 
 ### Principais Stacks:
 > - <img align="center" alt="HTML5" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <a href="https://www.w3schools.com/html/">HTML5</a>
-> - <img align="center" alt="React" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3</a>
+> - <img align="center" alt="CSS3" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS3</a>
